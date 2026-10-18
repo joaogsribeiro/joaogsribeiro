@@ -72,52 +72,6 @@ Busco transformar conhecimentos técnicos em soluções práticas, desenvolvendo
 
 ---
 
-## 🚀 Projetos em destaque
-
-### 🔎 [UptimeCore API](https://github.com/joaogsribeiro/uptime-core-api)
-
-API REST para monitoramento da disponibilidade de serviços e URLs.
-
-- Desenvolvimento backend com Node.js e Express.
-- Persistência de dados com PostgreSQL e Prisma.
-- Autenticação e organização das rotas da API.
-- Documentação com Swagger.
-- Testes automatizados e ambiente conteinerizado com Docker.
-
-**Tecnologias:** Node.js, Express, Prisma, PostgreSQL, Swagger, Jest e Docker.
-
-### 🔥 [GuaráWatch](https://github.com/joaogsribeiro/guarawatch)
-
-Plataforma voltada ao monitoramento e à análise de riscos de incêndios no Cerrado, com foco em dados ambientais e apoio à prevenção.
-
-- Visualização de informações ambientais e indicadores de risco.
-- Organização de dados para apoiar a análise e a tomada de decisão.
-- Desenvolvimento colaborativo de uma solução com propósito socioambiental.
-
-**Tecnologias:** TypeScript e tecnologias de desenvolvimento web utilizadas no projeto.
-
-### 🤖 [Writing Assistant](https://github.com/joaogsribeiro/writing-assistant)
-
-Assistente de escrita baseado em arquitetura distribuída e comunicação entre serviços de inteligência artificial.
-
-- Integração entre serviços por meio de uma arquitetura com API Gateway.
-- Experimentação com modelos locais e serviços de IA externos.
-- Organização de componentes para separar responsabilidades.
-
-**Tecnologias:** JavaScript, microsserviços e integração com APIs de IA.
-
-### ♿ [WCAG Checker](https://github.com/joaogsribeiro/wcag-checker)
-
-Extensão para navegador voltada à verificação de contraste de cores e acessibilidade de interfaces.
-
-- Apoio à análise de contraste conforme critérios WCAG.
-- Foco na identificação de problemas de legibilidade em interfaces.
-- Projeto relacionado à acessibilidade digital.
-
-**Tecnologias:** JavaScript, HTML e tecnologias web.
-
----
-
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
